@@ -33,24 +33,24 @@
         },
         "productos": [
             {
-				"nombre": "Set Mar",
-				"precio_anterior": "499.99",
-				"precio": "429.99",
-				"imagen": "./Set a.JPEG",
+				"nombre": "Set Mar Nude",
+				"precio_anterior": "299.99",
+				"precio": "229.99",
+				"imagen": "./Set b.JPEG",
 				"categoria": "Sofás"
+			},
+			{
+				"nombre": "Set Mar Baby Blue",
+				"precio_anterior": "299.99",
+				"precio": "249.99",
+				"imagen": "./Set d.JPEG",
+				"categoria": "Mesas"
 			},
 			{
 				"nombre": "Set Lía",
 				"precio_anterior": "299.99",
 				"precio": "249.99",
-				"imagen": "./Set b.JPEG",
-				"categoria": "Mesas"
-			},
-			{
-				"nombre": "Dolor Silla Pro",
-				"precio_anterior": "89.99",
-				"precio": "74.99",
-				"imagen": "./Set c.JPEG",
+				"imagen": "./Set e.JPEG",
 				"categoria": "Sillas"
 			},
 			{
@@ -103,4 +103,5 @@
 		"descargar_catalogo_url": ""
 
     }
+
 
