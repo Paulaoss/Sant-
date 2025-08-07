@@ -66,6 +66,13 @@
 				"precio": "349.99",
 				"imagen": "./Set_c.JPEG",
 				"categoria": "Mesas"
+			},
+			{
+				"nombre": "Set Ambar",
+				"precio_anterior": "399.99",
+				"precio": "349.99",
+				"imagen": "./Set_f.PNG",
+				"categoria": "Mesas"
 			}
 				
         ],
@@ -83,6 +90,7 @@
 		"descargar_catalogo_url": ""
 
     }
+
 
 
 
