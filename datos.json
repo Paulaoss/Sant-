@@ -17,14 +17,14 @@
                 "imagen": "Leg.JPG"
             },
             {
-                "nombre_producto": "Tops",
+                "nombre_producto": "Sets",
                 "nombre_categoria": "",
-                "imagen": "Setim .JPG"
+                "imagen": "Set12.jpg"
             },
             {
                 "nombre_producto": "Bodys",
                 "nombre_categoria": "",
-                "imagen": "Bodyima.JPG"
+                "imagen": "Body12.jpg"
             }
         ],
         "acerca_de": {
@@ -90,6 +90,7 @@
 		"descargar_catalogo_url": ""
 
     }
+
 
 
 
