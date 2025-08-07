@@ -66,8 +66,7 @@
 				"precio": "349.99",
 				"imagen": "./Set_c.JPEG",
 				"categoria": "Mesas"
-			},
-			{
+			}
 				
         ],
         "derechos_reservados": "Todos los derechos reservados Raíz & Forma 2025.",
@@ -84,6 +83,7 @@
 		"descargar_catalogo_url": ""
 
     }
+
 
 
 
