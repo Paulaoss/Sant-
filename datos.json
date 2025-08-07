@@ -8,7 +8,7 @@
             },
             {
                 "nombre_producto": "Sets",
-                "nombre_categoria": "",
+                "nombre_categoria": "sets.JPG",
                 "imagen": "./portada-producto-2.jpg"
             },
             {
@@ -90,6 +90,7 @@
 		"descargar_catalogo_url": ""
 
     }
+
 
 
 
