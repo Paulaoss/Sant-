@@ -1,46 +1,46 @@
 {
-        "nombre_comercial": "Raíz & Forma",
+        "nombre_comercial": "Santé",
         "portada": [
             {
-                "nombre_producto": "Hogar de Estilo",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "S",
+                "nombre_categoria": "Sets",
                 "imagen": "./portada-producto-1.jpg"
             },
             {
-                "nombre_producto": "Silla Helen",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "Set Luna",
+                "nombre_categoria": "Sets",
                 "imagen": "./portada-producto-2.jpg"
             },
             {
-                "nombre_producto": "Jarron para Flores",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "Set Lía",
+                "nombre_categoria": "Sets",
                 "imagen": "./portada-producto-3.jpg"
             },
             {
-                "nombre_producto": "Huevos de Madera",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "Set Antara",
+                "nombre_categoria": "Sets",
                 "imagen": "./portada-producto-4.jpg"
             },
             {
-                "nombre_producto": "Mesa de Madera de Pino",
-                "nombre_categoria": "Mueble",
+                "nombre_producto": "Short Nude",
+                "nombre_categoria": "Short",
                 "imagen": "./portada-producto-5.jpg"
             }
         ],
         "acerca_de": {
-            "nombre_tienda": "Tienda Raíz & Forma",
-            "descripcion": "Diseñamos y seleccionamos muebles con alma: funcionales, duraderos y con carácter propio. Nuestra pasión por los materiales nobles, como la madera maciza, se refleja en cada pieza que ofrecemos."
+            "nombre_tienda": "Santé",
+            "descripcion": "Movimiento, diseño y comodidad en un solo lugar: Santé"
         },
         "productos": [
             {
-				"nombre": "Lorem Sofá Max",
+				"nombre": "Set Mar",
 				"precio_anterior": "499.99",
 				"precio": "429.99",
 				"imagen": "./producto-1.jpg",
 				"categoria": "Sofás"
 			},
 			{
-				"nombre": "Ipsum Mesa Central",
+				"nombre": "Set Lía",
 				"precio_anterior": "299.99",
 				"precio": "249.99",
 				"imagen": "./producto-2.jpg",
@@ -101,4 +101,5 @@
 			}
 		],
 		"descargar_catalogo_url": ""
+
     }
