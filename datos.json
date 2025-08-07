@@ -36,58 +36,39 @@
 				"nombre": "Set Mar Nude",
 				"precio_anterior": "299.99",
 				"precio": "229.99",
-				"imagen": "./Set b.JPEG",
+				"imagen": "./Set_d.JPEG",
 				"categoria": "Sofás"
 			},
 			{
 				"nombre": "Set Mar Baby Blue",
 				"precio_anterior": "299.99",
 				"precio": "249.99",
-				"imagen": "./Set d.JPEG",
+				"imagen": "./Set_a.jpg",
 				"categoria": "Mesas"
 			},
 			{
 				"nombre": "Set Lía",
 				"precio_anterior": "299.99",
 				"precio": "249.99",
-				"imagen": "./Set e.JPEG",
+				"imagen": "./Set_e.jpg",
 				"categoria": "Sillas"
 			},
 			{
-				"nombre": "SitSofá Lounge",
-				"precio_anterior": "599.99",
-				"precio": "519.99",
-				"imagen": "./Set d.JPEG",
+				"nombre": "Set Doble Blanco",
+				"precio_anterior": "399.99",
+				"precio": "319.99",
+				"imagen": "./Set_b.jpg",
 				"categoria": "Sofás"
 			},
 			{
-				"nombre": "Amet Mesa Extensible",
+				"nombre": "Set Doble Amarillo",
 				"precio_anterior": "399.99",
 				"precio": "349.99",
-				"imagen": "./producto-5.jpg",
+				"imagen": "./Set_c.JPEG",
 				"categoria": "Mesas"
 			},
 			{
-				"nombre": "Elit Silla Nordic",
-				"precio_anterior": "119.99",
-				"precio": "99.99",
-				"imagen": "./producto-6.jpg",
-				"categoria": "Sillas"
-			},
-			{
-				"nombre": "Adipiscing Sofá Retro",
-				"precio_anterior": "459.99",
-				"precio": "399.99",
-				"imagen": "./producto-7.jpg",
-				"categoria": "Sofás"
-			},
-			{
-				"nombre": "Tempor Mesa Minimal",
-				"precio_anterior": "199.99",
-				"precio": "159.99",
-				"imagen": "./producto-8.jpg",
-				"categoria": "Mesas"
-			}
+				
         ],
         "derechos_reservados": "Todos los derechos reservados Raíz & Forma 2025.",
 		"botones_formulario": [
@@ -103,5 +84,6 @@
 		"descargar_catalogo_url": ""
 
     }
+
 
 
