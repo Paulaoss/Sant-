@@ -36,28 +36,28 @@
 				"nombre": "Set Mar",
 				"precio_anterior": "499.99",
 				"precio": "429.99",
-				"imagen": "./producto-1.jpg",
+				"imagen": "./Set a.JPEG",
 				"categoria": "Sofás"
 			},
 			{
 				"nombre": "Set Lía",
 				"precio_anterior": "299.99",
 				"precio": "249.99",
-				"imagen": "./producto-2.jpg",
+				"imagen": "./Set b.JPEG",
 				"categoria": "Mesas"
 			},
 			{
 				"nombre": "Dolor Silla Pro",
 				"precio_anterior": "89.99",
 				"precio": "74.99",
-				"imagen": "./producto-3.jpg",
+				"imagen": "./Set c.JPEG",
 				"categoria": "Sillas"
 			},
 			{
 				"nombre": "SitSofá Lounge",
 				"precio_anterior": "599.99",
 				"precio": "519.99",
-				"imagen": "./producto-4.jpg",
+				"imagen": "./Set d.JPEG",
 				"categoria": "Sofás"
 			},
 			{
@@ -103,3 +103,4 @@
 		"descargar_catalogo_url": ""
 
     }
+
