@@ -24,7 +24,7 @@
             {
                 "nombre_producto": "Bodys",
                 "nombre_categoria": "",
-                "imagen": "Body I'm.JPG"
+                "imagen": "Bodyima.JPG"
             }
         ],
         "acerca_de": {
@@ -90,6 +90,7 @@
 		"descargar_catalogo_url": ""
 
     }
+
 
 
 
