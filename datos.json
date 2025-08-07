@@ -2,27 +2,27 @@
         "nombre_comercial": "Santé",
         "portada": [
             {
-                "nombre_producto": "S",
-                "nombre_categoria": "Sets",
+                "nombre_producto": "Shorts",
+                "nombre_categoria": "",
                 "imagen": "./portada-producto-1.jpg"
             },
             {
-                "nombre_producto": "Set Luna",
-                "nombre_categoria": "Sets",
+                "nombre_producto": "Sets",
+                "nombre_categoria": "",
                 "imagen": "./portada-producto-2.jpg"
             },
             {
-                "nombre_producto": "Set Lía",
-                "nombre_categoria": "Sets",
+                "nombre_producto": "Leggings",
+                "nombre_categoria": "",
                 "imagen": "./portada-producto-3.jpg"
             },
             {
-                "nombre_producto": "Set Antara",
-                "nombre_categoria": "Sets",
+                "nombre_producto": "Tops",
+                "nombre_categoria": "",
                 "imagen": "./portada-producto-4.jpg"
             },
             {
-                "nombre_producto": "Short Nude",
+                "nombre_producto": "Accesorios",
                 "nombre_categoria": "Short",
                 "imagen": "./portada-producto-5.jpg"
             }
@@ -84,6 +84,7 @@
 		"descargar_catalogo_url": ""
 
     }
+
 
 
 
