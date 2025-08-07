@@ -4,12 +4,12 @@
             {
                 "nombre_producto": "Shorts",
                 "nombre_categoria": "",
-                "imagen": "./portada-producto-1.jpg"
+                "imagen": "Short.jpg"
             },
             {
                 "nombre_producto": "Sets",
-                "nombre_categoria": "sets.JPG",
-                "imagen": "./portada-producto-2.jpg"
+                "nombre_categoria": "",
+                "imagen": "sets.JPG"
             },
             {
                 "nombre_producto": "Leggings",
@@ -19,7 +19,7 @@
             {
                 "nombre_producto": "Tops",
                 "nombre_categoria": "",
-                "imagen": "./portada-producto-4.jpg"
+                "imagen": "Top.jpg"
             },
             {
                 "nombre_producto": "Accesorios",
@@ -90,6 +90,7 @@
 		"descargar_catalogo_url": ""
 
     }
+
 
 
 
