@@ -4,27 +4,27 @@
             {
                 "nombre_producto": "Shorts",
                 "nombre_categoria": "",
-                "imagen": "Short.jpg"
+                "imagen": "Short1.JPG"
             },
             {
                 "nombre_producto": "Sets",
                 "nombre_categoria": "",
-                "imagen": "sets.JPG"
+                "imagen": "Seti.JPG"
             },
             {
                 "nombre_producto": "Leggings",
                 "nombre_categoria": "",
-                "imagen": "./portada-producto-3.jpg"
+                "imagen": "Leg.JPG"
             },
             {
                 "nombre_producto": "Tops",
                 "nombre_categoria": "",
-                "imagen": "Top.jpg"
+                "imagen": "Top1.JPG"
             },
             {
-                "nombre_producto": "Accesorios",
-                "nombre_categoria": "Short",
-                "imagen": "./portada-producto-5.jpg"
+                "nombre_producto": "Bodys",
+                "nombre_categoria": "",
+                "imagen": "Body I'm.JPG"
             }
         ],
         "acerca_de": {
@@ -37,42 +37,42 @@
 				"precio_anterior": "299.99",
 				"precio": "229.99",
 				"imagen": "./Set_d.JPEG",
-				"categoria": "Sofás"
+				"categoria": "Sets"
 			},
 			{
 				"nombre": "Set Mar Baby Blue",
 				"precio_anterior": "299.99",
 				"precio": "249.99",
 				"imagen": "./Set_a.jpg",
-				"categoria": "Mesas"
+				"categoria": "Sets"
 			},
 			{
 				"nombre": "Set Lía",
 				"precio_anterior": "299.99",
 				"precio": "249.99",
 				"imagen": "./Set_e.jpg",
-				"categoria": "Sillas"
+				"categoria": "Sets"
 			},
 			{
 				"nombre": "Set Doble Blanco",
 				"precio_anterior": "399.99",
 				"precio": "319.99",
 				"imagen": "./Set_b.jpg",
-				"categoria": "Sofás"
+				"categoria": "Sets"
 			},
 			{
 				"nombre": "Set Doble Amarillo",
 				"precio_anterior": "399.99",
 				"precio": "349.99",
 				"imagen": "./Set_c.JPEG",
-				"categoria": "Mesas"
+				"categoria": "Sets"
 			},
 			{
 				"nombre": "Set Ambar",
 				"precio_anterior": "399.99",
 				"precio": "349.99",
 				"imagen": "./Set_f.PNG",
-				"categoria": "Mesas"
+				"categoria": "Sets"
 			}
 				
         ],
@@ -90,6 +90,7 @@
 		"descargar_catalogo_url": ""
 
     }
+
 
 
 
